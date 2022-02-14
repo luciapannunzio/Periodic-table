@@ -54,7 +54,7 @@ Mail: [luciapannunzio](https://mail.google.com/mail/u/0/#inbox)
 
 GitHub: [luciapannunzio](https://github.com/luciapannunzio/)
 
-LinkedIn: [my linkedin](https://www.linkedin.com/in/luciapannunziovanderwedden/)
+LinkedIn: [luciapannunziovanderwedden](https://www.linkedin.com/in/luciapannunziovanderwedden/)
 
 
 * * *
