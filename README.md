@@ -41,8 +41,8 @@
  - [ ] JavaScript
  - [ ] React
  - [ ] Bootstrap
- - [x] npm
- - [ ] ...
+ - [ ] npm
+ - [ ] ... 
  
  
  * * *
